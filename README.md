@@ -1,7 +1,7 @@
 # mass_media_mentions
 Mentions of art-related content by neighborhoods in the media
 
-Methodology:
+**Methodology:**
 
 Query for the Nexis Uni database:
 e.g. include all terms ("Co-op City" and "Bronx" and "artist")
